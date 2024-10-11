@@ -1,0 +1,14 @@
+C:\Users\Herick\Documents\Projetos\dotnet\teste-contador\bin\Debug\net8.0\teste-contador.exe
+C:\Users\Herick\Documents\Projetos\dotnet\teste-contador\bin\Debug\net8.0\teste-contador.deps.json
+C:\Users\Herick\Documents\Projetos\dotnet\teste-contador\bin\Debug\net8.0\teste-contador.runtimeconfig.json
+C:\Users\Herick\Documents\Projetos\dotnet\teste-contador\bin\Debug\net8.0\teste-contador.dll
+C:\Users\Herick\Documents\Projetos\dotnet\teste-contador\bin\Debug\net8.0\teste-contador.pdb
+C:\Users\Herick\Documents\Projetos\dotnet\teste-contador\obj\Debug\net8.0\teste-contador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Herick\Documents\Projetos\dotnet\teste-contador\obj\Debug\net8.0\teste-contador.AssemblyInfoInputs.cache
+C:\Users\Herick\Documents\Projetos\dotnet\teste-contador\obj\Debug\net8.0\teste-contador.AssemblyInfo.cs
+C:\Users\Herick\Documents\Projetos\dotnet\teste-contador\obj\Debug\net8.0\teste-contador.csproj.CoreCompileInputs.cache
+C:\Users\Herick\Documents\Projetos\dotnet\teste-contador\obj\Debug\net8.0\teste-contador.dll
+C:\Users\Herick\Documents\Projetos\dotnet\teste-contador\obj\Debug\net8.0\refint\teste-contador.dll
+C:\Users\Herick\Documents\Projetos\dotnet\teste-contador\obj\Debug\net8.0\teste-contador.pdb
+C:\Users\Herick\Documents\Projetos\dotnet\teste-contador\obj\Debug\net8.0\teste-contador.genruntimeconfig.cache
+C:\Users\Herick\Documents\Projetos\dotnet\teste-contador\obj\Debug\net8.0\ref\teste-contador.dll

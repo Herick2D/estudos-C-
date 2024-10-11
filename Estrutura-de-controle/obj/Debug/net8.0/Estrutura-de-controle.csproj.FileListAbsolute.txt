@@ -1,0 +1,14 @@
+C:\Users\Herick\Documents\Projetos\dotnet\Estrutura-de-controle\bin\Debug\net8.0\Estrutura-de-controle.exe
+C:\Users\Herick\Documents\Projetos\dotnet\Estrutura-de-controle\bin\Debug\net8.0\Estrutura-de-controle.deps.json
+C:\Users\Herick\Documents\Projetos\dotnet\Estrutura-de-controle\bin\Debug\net8.0\Estrutura-de-controle.runtimeconfig.json
+C:\Users\Herick\Documents\Projetos\dotnet\Estrutura-de-controle\bin\Debug\net8.0\Estrutura-de-controle.dll
+C:\Users\Herick\Documents\Projetos\dotnet\Estrutura-de-controle\bin\Debug\net8.0\Estrutura-de-controle.pdb
+C:\Users\Herick\Documents\Projetos\dotnet\Estrutura-de-controle\obj\Debug\net8.0\Estrutura-de-controle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Herick\Documents\Projetos\dotnet\Estrutura-de-controle\obj\Debug\net8.0\Estrutura-de-controle.AssemblyInfoInputs.cache
+C:\Users\Herick\Documents\Projetos\dotnet\Estrutura-de-controle\obj\Debug\net8.0\Estrutura-de-controle.AssemblyInfo.cs
+C:\Users\Herick\Documents\Projetos\dotnet\Estrutura-de-controle\obj\Debug\net8.0\Estrutura-de-controle.csproj.CoreCompileInputs.cache
+C:\Users\Herick\Documents\Projetos\dotnet\Estrutura-de-controle\obj\Debug\net8.0\Estrutura-de-controle.dll
+C:\Users\Herick\Documents\Projetos\dotnet\Estrutura-de-controle\obj\Debug\net8.0\refint\Estrutura-de-controle.dll
+C:\Users\Herick\Documents\Projetos\dotnet\Estrutura-de-controle\obj\Debug\net8.0\Estrutura-de-controle.pdb
+C:\Users\Herick\Documents\Projetos\dotnet\Estrutura-de-controle\obj\Debug\net8.0\Estrutura-de-controle.genruntimeconfig.cache
+C:\Users\Herick\Documents\Projetos\dotnet\Estrutura-de-controle\obj\Debug\net8.0\ref\Estrutura-de-controle.dll

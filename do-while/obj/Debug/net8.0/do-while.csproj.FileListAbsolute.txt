@@ -1,0 +1,14 @@
+C:\Users\Herick\Documents\Projetos\dotnet\do-while\bin\Debug\net8.0\do-while.exe
+C:\Users\Herick\Documents\Projetos\dotnet\do-while\bin\Debug\net8.0\do-while.deps.json
+C:\Users\Herick\Documents\Projetos\dotnet\do-while\bin\Debug\net8.0\do-while.runtimeconfig.json
+C:\Users\Herick\Documents\Projetos\dotnet\do-while\bin\Debug\net8.0\do-while.dll
+C:\Users\Herick\Documents\Projetos\dotnet\do-while\bin\Debug\net8.0\do-while.pdb
+C:\Users\Herick\Documents\Projetos\dotnet\do-while\obj\Debug\net8.0\do-while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Herick\Documents\Projetos\dotnet\do-while\obj\Debug\net8.0\do-while.AssemblyInfoInputs.cache
+C:\Users\Herick\Documents\Projetos\dotnet\do-while\obj\Debug\net8.0\do-while.AssemblyInfo.cs
+C:\Users\Herick\Documents\Projetos\dotnet\do-while\obj\Debug\net8.0\do-while.csproj.CoreCompileInputs.cache
+C:\Users\Herick\Documents\Projetos\dotnet\do-while\obj\Debug\net8.0\do-while.dll
+C:\Users\Herick\Documents\Projetos\dotnet\do-while\obj\Debug\net8.0\refint\do-while.dll
+C:\Users\Herick\Documents\Projetos\dotnet\do-while\obj\Debug\net8.0\do-while.pdb
+C:\Users\Herick\Documents\Projetos\dotnet\do-while\obj\Debug\net8.0\do-while.genruntimeconfig.cache
+C:\Users\Herick\Documents\Projetos\dotnet\do-while\obj\Debug\net8.0\ref\do-while.dll

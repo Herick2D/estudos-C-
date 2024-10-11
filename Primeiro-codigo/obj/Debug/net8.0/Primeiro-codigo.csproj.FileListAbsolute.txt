@@ -1,0 +1,14 @@
+C:\Users\Herick\Documents\Projetos\dotnet\Primeiro-codigo\bin\Debug\net8.0\Primeiro-codigo.exe
+C:\Users\Herick\Documents\Projetos\dotnet\Primeiro-codigo\bin\Debug\net8.0\Primeiro-codigo.deps.json
+C:\Users\Herick\Documents\Projetos\dotnet\Primeiro-codigo\bin\Debug\net8.0\Primeiro-codigo.runtimeconfig.json
+C:\Users\Herick\Documents\Projetos\dotnet\Primeiro-codigo\bin\Debug\net8.0\Primeiro-codigo.dll
+C:\Users\Herick\Documents\Projetos\dotnet\Primeiro-codigo\bin\Debug\net8.0\Primeiro-codigo.pdb
+C:\Users\Herick\Documents\Projetos\dotnet\Primeiro-codigo\obj\Debug\net8.0\Primeiro-codigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Herick\Documents\Projetos\dotnet\Primeiro-codigo\obj\Debug\net8.0\Primeiro-codigo.AssemblyInfoInputs.cache
+C:\Users\Herick\Documents\Projetos\dotnet\Primeiro-codigo\obj\Debug\net8.0\Primeiro-codigo.AssemblyInfo.cs
+C:\Users\Herick\Documents\Projetos\dotnet\Primeiro-codigo\obj\Debug\net8.0\Primeiro-codigo.csproj.CoreCompileInputs.cache
+C:\Users\Herick\Documents\Projetos\dotnet\Primeiro-codigo\obj\Debug\net8.0\Primeiro-codigo.dll
+C:\Users\Herick\Documents\Projetos\dotnet\Primeiro-codigo\obj\Debug\net8.0\refint\Primeiro-codigo.dll
+C:\Users\Herick\Documents\Projetos\dotnet\Primeiro-codigo\obj\Debug\net8.0\Primeiro-codigo.pdb
+C:\Users\Herick\Documents\Projetos\dotnet\Primeiro-codigo\obj\Debug\net8.0\Primeiro-codigo.genruntimeconfig.cache
+C:\Users\Herick\Documents\Projetos\dotnet\Primeiro-codigo\obj\Debug\net8.0\ref\Primeiro-codigo.dll
